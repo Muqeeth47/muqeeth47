@@ -1,29 +1,22 @@
 ﻿<div align="center">
 
 <!-- TOP WAVE — Obsidian + Violet -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d001a,50:2d0057,100:5b21b6&height=120&section=header&fontSize=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d001a,50:2d0057,100:5b21b6&height=110&section=header&fontSize=1" width="100%"/>
 
 <br/>
 
-<!-- MULTILINGUAL GREETINGS — type in and out, no emojis, left aligned -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=1600&pause=400&color=c084fc&center=false&vCenter=true&width=500&delete_speed=6&lines=Hi!;Namaskaram!;As-salamu+alaykum!;Namaste!;Bonjour!;Hola!;Konnichiwa!" alt="Greeting" />
+<!-- GENERATED HEADER IMAGE — I AM MUQEETH + I'm an Artist -->
+<img src="./header.png" width="100%" alt="I AM MUQEETH — I'm an Artist"/>
 
 <br/>
 
-<!-- POLISHED SVG NAME BANNER — JetBrains Mono + Caveat -->
-<img src="./header.svg" width="100%" alt="I AM MUQEETH — I'm an Artist"/>
-
-<br/>
-
-<!-- SOCIAL BADGES — violet palette, no emojis -->
+<!-- SOCIAL BADGES -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-muqeeth.wedevit.in-c084fc?style=for-the-badge&logo=safari&logoColor=0d001a&labelColor=5b21b6)](https://muqeeth.wedevit.in/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Shaik_Muqeeth-c084fc?style=for-the-badge&logo=leetcode&logoColor=0d001a&labelColor=5b21b6)](https://leetcode.com/u/Shaik_Muqeeth/)
 [![GitHub](https://img.shields.io/badge/GitHub-Muqeeth47-c084fc?style=for-the-badge&logo=github&logoColor=0d001a&labelColor=5b21b6)](https://github.com/Muqeeth47)
 
 <br/>
 
-> *B.Tech CSE · G. Pulla Reddy Engineering College, Kurnool · Class of 2028*
->
 > I design with pencils, build with AI, and ship things that feel alive.
 
 </div>
@@ -44,20 +37,20 @@
 
 <div align="center">
 
-<table border="0" cellspacing="12" cellpadding="0">
-<tr>
-<td align="center">
+<!-- STAT BADGES ROW -->
+![Solved](https://img.shields.io/badge/Solved-339-c084fc?style=for-the-badge&labelColor=0d001a)
+![Easy](https://img.shields.io/badge/Easy-141-00b8a3?style=for-the-badge&labelColor=0d001a)
+![Medium](https://img.shields.io/badge/Medium-178-ffc01e?style=for-the-badge&labelColor=0d001a)
+![Hard](https://img.shields.io/badge/Hard-20-ef4743?style=for-the-badge&labelColor=0d001a)
+![Rating](https://img.shields.io/badge/Rating-1617-a855f7?style=for-the-badge&labelColor=0d001a)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Shaik_Muqeeth?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12&hide_name=true&bg_color=0d001a&text_color=c084fc&title_color=a855f7)](https://leetcode.com/u/Shaik_Muqeeth/)
+<br/><br/>
 
-</td>
-<td align="center">
+<!-- ACTIVITY HEATMAP -->
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/Shaik_Muqeeth?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12)](https://leetcode.com/u/Shaik_Muqeeth/)
 
-[![LeetCode Contest](https://leetcard.jacoblin.cool/Shaik_Muqeeth?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=12&hide_name=true&bg_color=0d001a&text_color=c084fc&title_color=a855f7)](https://leetcode.com/u/Shaik_Muqeeth/)
-
-</td>
-</tr>
-</table>
+<!-- CONTEST RATING CHART -->
+[![Contest Rating](https://leetcard.jacoblin.cool/Shaik_Muqeeth?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=12)](https://leetcode.com/u/Shaik_Muqeeth/)
 
 </div>
 
