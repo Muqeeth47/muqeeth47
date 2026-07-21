@@ -6,7 +6,7 @@
 <br/>
 
 <!-- GENERATED HEADER IMAGE — I AM MUQEETH + I'm an Artist -->
-<img src="./header.png?v=5" width="100%" alt="I AM MUQEETH — I'm an Artist"/>
+<img src="./header.png?v=6" width="100%" alt="I AM MUQEETH — I'm an Artist"/>
 
 <br/>
 
