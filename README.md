@@ -6,7 +6,7 @@
 <br/>
 
 <!-- GENERATED HEADER IMAGE — I AM MUQEETH + I'm an Artist -->
-<img src="./header.png?v=4" width="100%" alt="I AM MUQEETH — I'm an Artist"/>
+<img src="./header.png?v=5" width="100%" alt="I AM MUQEETH — I'm an Artist"/>
 
 <br/>
 
@@ -14,10 +14,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-muqeeth.wedevit.in-c084fc?style=for-the-badge&logo=safari&logoColor=0d001a&labelColor=5b21b6)](https://muqeeth.wedevit.in/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Shaik_Muqeeth-c084fc?style=for-the-badge&logo=leetcode&logoColor=0d001a&labelColor=5b21b6)](https://leetcode.com/u/Shaik_Muqeeth/)
 [![GitHub](https://img.shields.io/badge/GitHub-Muqeeth47-c084fc?style=for-the-badge&logo=github&logoColor=0d001a&labelColor=5b21b6)](https://github.com/Muqeeth47)
-
-<br/>
-
-> I design with pencils, build with AI, and ship things that feel alive.
 
 </div>
 
