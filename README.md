@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<img src="profile-3d-contrib/profile-night-view.svg" alt="Muqeeth's 3D Contribution Graph" width="100%" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muqeeth47&bg_color=0d001a&color=c084fc&line=5b21b6&point=a855f7&area=true&area_color=2d0057&hide_border=true&radius=8&custom_title=Contribution+Timeline)](https://github.com/Muqeeth47)
 
 </div>
 
