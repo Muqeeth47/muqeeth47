@@ -1,62 +1,59 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0500,40:3d1a08,80:7F5539,100:DDB892&height=120&section=header&fontSize=1" width="100%"/>
+<!-- TOP WAVE — Obsidian + Violet -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d001a,50:2d0057,100:5b21b6&height=120&section=header&fontSize=1" width="100%"/>
 
 <br/>
 
-<!-- MULTILINGUAL GREETINGS — type in and out -->
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=28&duration=1800&pause=400&color=DDB892&center=true&vCenter=true&width=600&delete_speed=8&lines=Hi!+%F0%9F%91%8B;%E0%B0%A8%E0%B0%AE%E0%B0%B8%E0%B1%8D%E0%B0%95%E0%B0%BE%E0%B0%B0%E0%B0%82!+%F0%9F%99%8F;%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85+%D8%B9%D9%84%D9%8A%D9%83!+%F0%9F%A4%B2;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87!+%F0%9F%A4%9D;Bonjour!+%F0%9F%98%8A;Hola!+%F0%9F%91%8B" alt="Multilingual Greeting" />
+<!-- MULTILINGUAL GREETINGS — type in and out, no emojis, left aligned -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=1600&pause=400&color=c084fc&center=false&vCenter=true&width=500&delete_speed=6&lines=Hi!;Namaskaram!;As-salamu+alaykum!;Namaste!;Bonjour!;Hola!;Konnichiwa!" alt="Greeting" />
 
 <br/>
 
-<!-- I AM MUQEETH — static block, no copy button -->
-<pre>
- _|_|_|                                _|      _|                                            _|      _|      
-   _|      _|_|_|  _|_|_|  _|_|        _|_|  _|_|  _|    _|    _|_|_|    _|_|      _|_|    _|_|_|_|  _|_|_|  
-   _|    _|    _|  _|    _|    _|      _|  _|  _|  _|    _|  _|    _|  _|_|_|_|  _|_|_|_|    _|      _|    _|
-   _|    _|    _|  _|    _|    _|      _|      _|  _|    _|  _|    _|  _|        _|          _|      _|    _|
- _|_|_|    _|_|_|  _|    _|    _|      _|      _|    _|_|_|    _|_|_|    _|_|_|    _|_|_|      _|_|  _|    _|
-                                                                   _|                                        
-                                                                   _|                                        
-</pre>
-
-<!-- I'M AN Artist -->
-<p>I'M AN &nbsp;<em><strong>Artist</strong></em></p>
+<!-- POLISHED SVG NAME BANNER — JetBrains Mono + Caveat -->
+<img src="./header.svg" width="100%" alt="I AM MUQEETH — I'm an Artist"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-muqeeth.wedevit.in-DDB892?style=for-the-badge&logo=safari&logoColor=1a0a00&labelColor=7F5539)](https://muqeeth.wedevit.in/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Shaik__Muqeeth-DDB892?style=for-the-badge&logo=leetcode&logoColor=1a0a00&labelColor=7F5539)](https://leetcode.com/u/Shaik_Muqeeth/)
-[![GitHub](https://img.shields.io/badge/GitHub-Muqeeth47-DDB892?style=for-the-badge&logo=github&logoColor=1a0a00&labelColor=7F5539)](https://github.com/Muqeeth47)
+<!-- SOCIAL BADGES — violet palette, no emojis -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-muqeeth.wedevit.in-c084fc?style=for-the-badge&logo=safari&logoColor=0d001a&labelColor=5b21b6)](https://muqeeth.wedevit.in/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Shaik_Muqeeth-c084fc?style=for-the-badge&logo=leetcode&logoColor=0d001a&labelColor=5b21b6)](https://leetcode.com/u/Shaik_Muqeeth/)
+[![GitHub](https://img.shields.io/badge/GitHub-Muqeeth47-c084fc?style=for-the-badge&logo=github&logoColor=0d001a&labelColor=5b21b6)](https://github.com/Muqeeth47)
+
+<br/>
+
+> *B.Tech CSE · G. Pulla Reddy Engineering College, Kurnool · Class of 2028*
+>
+> I design with pencils, build with AI, and ship things that feel alive.
 
 </div>
 
 ---
 
-## 🌌 GitHub Contribution Graph
+## GitHub Contribution Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muqeeth47&bg_color=0d0500&color=DDB892&line=7F5539&point=ffe68c&area=true&area_color=7F5539&hide_border=true&radius=8&custom_title=Contribution+Timeline)](https://github.com/Muqeeth47)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muqeeth47&bg_color=0d001a&color=c084fc&line=5b21b6&point=a855f7&area=true&area_color=2d0057&hide_border=true&radius=8&custom_title=Contribution+Timeline)](https://github.com/Muqeeth47)
 
 </div>
 
 ---
 
-## 🧩 LeetCode Progress
+## LeetCode Progress
 
 <div align="center">
 
-<table border="0" cellspacing="10" cellpadding="0">
+<table border="0" cellspacing="12" cellpadding="0">
 <tr>
 <td align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Shaik_Muqeeth?theme=dark&font=Noto+Sans&ext=heatmap&border=0&radius=12)](https://leetcode.com/u/Shaik_Muqeeth/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Shaik_Muqeeth?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12&hide_name=true&bg_color=0d001a&text_color=c084fc&title_color=a855f7)](https://leetcode.com/u/Shaik_Muqeeth/)
 
 </td>
 <td align="center">
 
-[![LeetCode Contest](https://leetcard.jacoblin.cool/Shaik_Muqeeth?theme=dark&font=Noto+Sans&ext=contest&border=0&radius=12)](https://leetcode.com/u/Shaik_Muqeeth/)
+[![LeetCode Contest](https://leetcard.jacoblin.cool/Shaik_Muqeeth?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=12&hide_name=true&bg_color=0d001a&text_color=c084fc&title_color=a855f7)](https://leetcode.com/u/Shaik_Muqeeth/)
 
 </td>
 </tr>
@@ -66,19 +63,19 @@
 
 ---
 
-## 🚀 Shipped Projects
+## Shipped Projects
 
 | Project | What it does | Live |
 |---|---|---|
-| **Portfolio** | Interactive sketchbook portfolio — scratch-reveal portrait, draggable stickers, anime.js physics | [Live ↗](https://muqeeth.wedevit.in/) |
-| **ProjectCase** | Text manipulation lab with easter eggs & experimental transformations | [Live ↗](https://textify.wedevit.in/) |
-| **Waqt** | Minimal time-tracking tool built for deep focus | [Live ↗](https://waqt-rho.vercel.app/) |
-| **FixIt** | Debugging companion — find the bug, fix the vibe | [Live ↗](https://letsfixindia.com/) |
-| **wedevit.in** | Dev studio & project showcase platform | [Live ↗](https://wedevit.in) |
+| **Portfolio** | Interactive sketchbook portfolio — scratch-reveal portrait, draggable stickers, anime.js physics | [Live](https://muqeeth.wedevit.in/) |
+| **ProjectCase** | Text manipulation lab with easter eggs and experimental transformations | [Live](https://textify.wedevit.in/) |
+| **Waqt** | Minimal time-tracking tool built for deep focus | [Live](https://waqt-rho.vercel.app/) |
+| **FixIt** | Debugging companion — find the bug, fix the vibe | [Live](https://letsfixindia.com/) |
+| **wedevit.in** | Dev studio and project showcase platform | [Live](https://wedevit.in) |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -90,19 +87,19 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Frameworks & Runtimes**
+**Frameworks**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-**I vibe code with 🎯**
+**I vibe code with**
 
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity_AI-1a0a00?style=flat-square&logo=google&logoColor=DDB892)
+![Antigravity](https://img.shields.io/badge/Antigravity_AI-5b21b6?style=flat-square&logo=google&logoColor=c084fc)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muqeeth47&layout=compact&theme=dark&bg_color=0d0500&title_color=ffe68c&text_color=DDB892&border_color=7F5539&langs_count=6&card_width=400)](https://github.com/Muqeeth47)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muqeeth47&layout=compact&bg_color=0d001a&title_color=c084fc&text_color=a855f7&border_color=5b21b6&langs_count=6&card_width=400)](https://github.com/Muqeeth47)
 
 </div>
 
@@ -110,7 +107,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DDB892,50:7F5539,100:0d0500&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b21b6,50:2d0057,100:0d001a&height=100&section=footer" width="100%"/>
 
 *"Built different. Drawn different."*
 
