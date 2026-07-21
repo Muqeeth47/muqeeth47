@@ -1,43 +1,38 @@
 ﻿<div align="center">
 
-<!-- TOP WAVE BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0500,40:3d1a08,80:7F5539,100:DDB892&height=140&section=header&fontSize=1" width="100%"/>
 
 </div>
 
-<!-- HERO: TWO-COLUMN LAYOUT (portrait + intro) -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="38%" align="center" valign="middle">
 
-<!-- ILLUSTRATED PORTRAIT — hosted in this repo -->
-<img src="./anime.jpg.jpeg" width="220" style="border-radius:16px; box-shadow: 0 8px 32px #7F5539;" alt="Muqeeth illustrated portrait"/>
+<img src="./real.jpg.jpeg" width="220" alt="Muqeeth portrait"/>
 
 </td>
 <td width="62%" align="left" valign="middle">
 
-<!-- ASCII NAME BLOCK -->
-```
+<pre>
 ███╗   ███╗██╗   ██╗ ██████╗ ███████╗███████╗████████╗██╗  ██╗
 ████╗ ████║██║   ██║██╔═══██╗██╔════╝██╔════╝╚══██╔══╝██║  ██║
 ██╔████╔██║██║   ██║██║   ██║█████╗  █████╗     ██║   ███████║
 ██║╚██╔╝██║██║   ██║██║▄▄ ██║██╔══╝  ██╔══╝     ██║   ██╔══██║
 ██║ ╚═╝ ██║╚██████╔╝╚██████╔╝███████╗███████╗   ██║   ██║  ██║
 ╚═╝     ╚═╝ ╚═════╝  ╚══▀▀═╝ ╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝
-```
+</pre>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=24&duration=2800&pause=900&color=DDB892&vCenter=true&width=520&lines=Artist+who+codes.+Coder+who+arts.;Building+with+vibes+%F0%9F%8E%A8;Leetcoding+in+the+dark+%F0%9F%8C%99;Sketchbooks+%26+source+code+%F0%9F%93%96;Shipping+ideas%2C+not+PRDs+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=22&duration=2500&pause=700&color=DDB892&vCenter=true&width=540&lines=Hi!+I+am+Muqeeth+%F0%9F%91%8B;%E0%B0%A8%E0%B0%AE%E0%B0%B8%E0%B1%8D%E0%B0%95%E0%B0%BE%E0%B0%B0%E0%B0%82!+I+am+Muqeeth+%F0%9F%99%8F;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87!+I+am+Muqeeth+%F0%9F%A4%9D;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B!+I+am+Muqeeth+%F0%9F%A4%B2;I+am+an+Artist+%F0%9F%8E%A8" alt="Typing SVG" />
 
 <br/>
 
 > *B.Tech CSE · G. Pulla Reddy Engineering College, Kurnool · Class of 2028*
-> 
+>
 > I design with pencils, build with AI, and ship things that feel alive.
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-muqeeth.dev-DDB892?style=for-the-badge&logo=safari&logoColor=1a0a00&labelColor=7F5539)](https://muqeeth47.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-muqeeth.wedevit.in-DDB892?style=for-the-badge&logo=safari&logoColor=1a0a00&labelColor=7F5539)](https://muqeeth.wedevit.in/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Shaik__Muqeeth-DDB892?style=for-the-badge&logo=leetcode&logoColor=1a0a00&labelColor=7F5539)](https://leetcode.com/u/Shaik_Muqeeth/)
 [![GitHub](https://img.shields.io/badge/GitHub-Muqeeth47-DDB892?style=for-the-badge&logo=github&logoColor=1a0a00&labelColor=7F5539)](https://github.com/Muqeeth47)
 
@@ -61,7 +56,20 @@
 
 <div align="center">
 
+<table border="0" cellspacing="10" cellpadding="0">
+<tr>
+<td align="center">
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Shaik_Muqeeth?theme=dark&font=Noto+Sans&ext=heatmap&border=0&radius=12)](https://leetcode.com/u/Shaik_Muqeeth/)
+
+</td>
+<td align="center">
+
+[![LeetCode Contest](https://leetcard.jacoblin.cool/Shaik_Muqeeth?theme=dark&font=Noto+Sans&ext=contest&border=0&radius=12)](https://leetcode.com/u/Shaik_Muqeeth/)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -69,12 +77,12 @@
 
 ## 🚀 Shipped Projects
 
-| Project | What it does | Links |
+| Project | What it does | Live |
 |---|---|---|
-| **Portfolio** | Interactive sketchbook portfolio — scratch-reveal portrait, draggable stickers, anime.js physics | [Live ↗](https://muqeeth47.github.io) · [Repo ↗](https://github.com/Muqeeth47/Portfolio) |
-| **ProjectCase** | Text manipulation lab with easter eggs & experimental transformations | [Live ↗](https://textify.wedevit.in) · [Repo ↗](https://github.com/Muqeeth47/projectcase) |
-| **Waqt** | Minimal time-tracking tool built for deep focus | [Repo ↗](https://github.com/Muqeeth47/waqt) |
-| **FixIt** | Debugging companion — find the bug, fix the vibe | [Repo ↗](https://github.com/Muqeeth47/fixit) |
+| **Portfolio** | Interactive sketchbook portfolio — scratch-reveal portrait, draggable stickers, anime.js physics | [Live ↗](https://muqeeth.wedevit.in/) |
+| **ProjectCase** | Text manipulation lab with easter eggs & experimental transformations | [Live ↗](https://textify.wedevit.in/) |
+| **Waqt** | Minimal time-tracking tool built for deep focus | [Live ↗](https://waqt-rho.vercel.app/) |
+| **FixIt** | Debugging companion — find the bug, fix the vibe | [Live ↗](https://letsfixindia.com/) |
 | **wedevit.in** | Dev studio & project showcase platform | [Live ↗](https://wedevit.in) |
 
 ---
