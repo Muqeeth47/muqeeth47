@@ -1,34 +1,27 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0500,40:3d1a08,80:7F5539,100:DDB892&height=140&section=header&fontSize=1" width="100%"/>
-
-</div>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="38%" align="center" valign="middle">
-
-<img src="./real.jpg.jpeg" width="220" alt="Muqeeth portrait"/>
-
-</td>
-<td width="62%" align="left" valign="middle">
-
-<pre>
-███╗   ███╗██╗   ██╗ ██████╗ ███████╗███████╗████████╗██╗  ██╗
-████╗ ████║██║   ██║██╔═══██╗██╔════╝██╔════╝╚══██╔══╝██║  ██║
-██╔████╔██║██║   ██║██║   ██║█████╗  █████╗     ██║   ███████║
-██║╚██╔╝██║██║   ██║██║▄▄ ██║██╔══╝  ██╔══╝     ██║   ██╔══██║
-██║ ╚═╝ ██║╚██████╔╝╚██████╔╝███████╗███████╗   ██║   ██║  ██║
-╚═╝     ╚═╝ ╚═════╝  ╚══▀▀═╝ ╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝
-</pre>
-
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=22&duration=2500&pause=700&color=DDB892&vCenter=true&width=540&lines=Hi!+I+am+Muqeeth+%F0%9F%91%8B;%E0%B0%A8%E0%B0%AE%E0%B0%B8%E0%B1%8D%E0%B0%95%E0%B0%BE%E0%B0%B0%E0%B0%82!+I+am+Muqeeth+%F0%9F%99%8F;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87!+I+am+Muqeeth+%F0%9F%A4%9D;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B!+I+am+Muqeeth+%F0%9F%A4%B2;I+am+an+Artist+%F0%9F%8E%A8" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0500,40:3d1a08,80:7F5539,100:DDB892&height=120&section=header&fontSize=1" width="100%"/>
 
 <br/>
 
-> *B.Tech CSE · G. Pulla Reddy Engineering College, Kurnool · Class of 2028*
->
-> I design with pencils, build with AI, and ship things that feel alive.
+<!-- MULTILINGUAL GREETINGS — type in and out -->
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=28&duration=1800&pause=400&color=DDB892&center=true&vCenter=true&width=600&delete_speed=8&lines=Hi!+%F0%9F%91%8B;%E0%B0%A8%E0%B0%AE%E0%B0%B8%E0%B1%8D%E0%B0%95%E0%B0%BE%E0%B0%B0%E0%B0%82!+%F0%9F%99%8F;%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85+%D8%B9%D9%84%D9%8A%D9%83!+%F0%9F%A4%B2;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87!+%F0%9F%A4%9D;Bonjour!+%F0%9F%98%8A;Hola!+%F0%9F%91%8B" alt="Multilingual Greeting" />
+
+<br/>
+
+<!-- I AM MUQEETH — static block, no copy button -->
+<pre>
+ _|_|_|                                _|      _|                                            _|      _|      
+   _|      _|_|_|  _|_|_|  _|_|        _|_|  _|_|  _|    _|    _|_|_|    _|_|      _|_|    _|_|_|_|  _|_|_|  
+   _|    _|    _|  _|    _|    _|      _|  _|  _|  _|    _|  _|    _|  _|_|_|_|  _|_|_|_|    _|      _|    _|
+   _|    _|    _|  _|    _|    _|      _|      _|  _|    _|  _|    _|  _|        _|          _|      _|    _|
+ _|_|_|    _|_|_|  _|    _|    _|      _|      _|    _|_|_|    _|_|_|    _|_|_|    _|_|_|      _|_|  _|    _|
+                                                                   _|                                        
+                                                                   _|                                        
+</pre>
+
+<!-- I'M AN Artist -->
+<p>I'M AN &nbsp;<em><strong>Artist</strong></em></p>
 
 <br/>
 
@@ -36,9 +29,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Shaik__Muqeeth-DDB892?style=for-the-badge&logo=leetcode&logoColor=1a0a00&labelColor=7F5539)](https://leetcode.com/u/Shaik_Muqeeth/)
 [![GitHub](https://img.shields.io/badge/GitHub-Muqeeth47-DDB892?style=for-the-badge&logo=github&logoColor=1a0a00&labelColor=7F5539)](https://github.com/Muqeeth47)
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
