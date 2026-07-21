@@ -97,7 +97,7 @@
 ![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity_AI-5b21b6?style=flat-square&logo=google&logoColor=c084fc)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muqeeth47&layout=compact&bg_color=0d001a&title_color=c084fc&text_color=a855f7&border_color=5b21b6&langs_count=6&card_width=400)](https://github.com/Muqeeth47)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Muqeeth47&layout=compact&bg_color=0d001a&title_color=c084fc&text_color=a855f7&border_color=5b21b6&langs_count=6)](https://github.com/Muqeeth47)
 
 </div>
 
