@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <!-- TOP WAVE — Obsidian + Violet -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d001a,50:2d0057,100:5b21b6&height=110&section=header&fontSize=1" width="100%"/>
@@ -46,11 +46,20 @@
 
 <br/><br/>
 
-<!-- ACTIVITY HEATMAP -->
+<table border="0" cellspacing="8" cellpadding="0">
+<tr>
+<td align="center">
+
 [![LeetCode Heatmap](https://leetcard.jacoblin.cool/Shaik_Muqeeth?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12)](https://leetcode.com/u/Shaik_Muqeeth/)
 
-<!-- CONTEST RATING CHART -->
+</td>
+<td align="center">
+
 [![Contest Rating](https://leetcard.jacoblin.cool/Shaik_Muqeeth?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=12)](https://leetcode.com/u/Shaik_Muqeeth/)
+
+</td>
+</tr>
+</table>
 
 </div>
 
