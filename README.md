@@ -23,7 +23,15 @@
 
 <div align="center">
 
-[![Muqeeth's GitHub Contribution Grid](https://ghchart.rshah.org/c084fc/Muqeeth47)](https://github.com/Muqeeth47)
+<table border="0" cellspacing="0" cellpadding="16" style="background-color: #05000a; border-radius: 12px;">
+<tr>
+<td align="center">
+
+[![Muqeeth's GitHub Contribution Grid](https://ghchart.rshah.org/a855f7/Muqeeth47)](https://github.com/Muqeeth47)
+
+</td>
+</tr>
+</table>
 
 </div>
 
