@@ -59,7 +59,7 @@
 </td>
 <td align="center">
 
-[![Contest Rating & Stats](https://leetcard.jacoblin.cool/Shaik_Muqeeth?theme=dark&font=JetBrains+Mono&border=0&radius=12)](https://leetcode.com/u/Shaik_Muqeeth/)
+[![Contest Rating Dashboard](https://leetcard.jacoblin.cool/Shaik_Muqeeth?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=12&v=10)](https://leetcode.com/u/Shaik_Muqeeth/)
 
 </td>
 </tr>
